@@ -237,7 +237,7 @@
       &nbsp;  &nbsp;
                   </div> 
                   <div class="total_amount_rht2">
-           TOTAL AMOUNT <span class="rs_left"> RS.{{trips.fare}}</span>
+           TOTAL AMOUNT <span class="rs_left"> DT.{{trips.fare}}</span>
                   </div> 
                   </div> 
              
@@ -274,15 +274,15 @@
                                                          
 
                               <div class="order_cnct_detail total last">Total Balance  </div>
-                              <div class="order_contact_inf total last">: Rs.00</div>
+                              <div class="order_contact_inf total last">: DT.00</div>
                            </li>
                            <li>
                               <div class="order_cnct_detail total last"> Your Cash </div>
-                              <div class="order_contact_inf total last">: Rs.0    </div>
+                              <div class="order_contact_inf total last">: DT.0    </div>
                            </li>
                            <li>
                               <div class="order_cnct_detail  total last"> Offer Cash </div>
-                              <div class="order_contact_inf  total last">  : Rs.51     </div>
+                              <div class="order_contact_inf  total last">  : DT.51     </div>
                            </li>
                         </ul>
                      </div>
